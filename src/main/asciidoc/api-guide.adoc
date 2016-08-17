@@ -1,0 +1,9 @@
+include::{snippets}/movies/curl-request.adoc[]
+
+include::{snippets}/movies/httpie-request.adoc[]
+
+include::{snippets}/movies/http-request.adoc[]
+
+include::{snippets}/movies/http-response.adoc[]
+
+
